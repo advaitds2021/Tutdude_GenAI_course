@@ -1,1 +1,1 @@
-This notebook contains solution to all the tasks in assignment 1 Tutdude GENAI course
+This notebook contains solution to all the tasks in assignments Tutdude GENAI course
